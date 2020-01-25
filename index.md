@@ -9,7 +9,7 @@ permalink: /
 # Cómo Hacer Estudios Bíblicos Inductivos
 {: .fs-9 }
 
-La información presentada en este sitio es tomada del material diseñado por Gustavo Sobarzo y Myriam Ortiz miembros del Grupo Bíblico Universitario de Chile. Los textos bíblicos fueron tomados de la versión NVI. 
+La información presentada en este sitio es tomada del material diseñado por Gustavo Sobarzo y Myriam Ortiz miembros del Grupo Bíblico Universitario de Chile en Enero 2011. Los textos bíblicos fueron tomados de la versión NVI. 
 {: .fs-6 .fw-300 }
 
 [Descargar Original](https://gbuch.cl/images/publicacionesgbuch/ComoHacerEBI.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
