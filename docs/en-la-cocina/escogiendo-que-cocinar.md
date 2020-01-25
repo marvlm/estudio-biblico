@@ -27,11 +27,11 @@ Sin embargo, puede que seas el encargado de los grupos de estudio, y tengas que 
 ## ¡Usa lo que Dios ha estado hablando a tu vida!
 Una buena recomendación es que pienses en tu propio devocional personal como un tema para el grupo. Cuando Dios ha estado hablándote, por algo es. También, ¡cuánto más entusiastas somos en compartir aquello que claramente ha tocado nuestro corazón!, por lo que si ha habido algún pasaje que te ha ayudado en los últimos días… ¡úsalo!. Además, ya habrás hecho gran parte de la etapa "en la cocina" con él, y será más fácil.
 
-## ¿Hay alguna necesidad o situación especial dentro del grupo? 
-Es importante eso sí, que no utilices esto para "forzar" a la Biblia a decir lo que no dice. Es el peligro que se corre si haces un estudio teledirigido. Ej: Si hay problemas financieros, hacer un estudio en que la conclusión sea que Dios va a hacer que a todos nos vaya bien financieramente, si oramos. 
+## Necesidades del grupo
+¿Hay alguna necesidad o situación especial dentro del grupo?  Es importante eso sí, que no utilices esto para "forzar" a la Biblia a decir lo que no dice. Es el peligro que se corre si haces un estudio teledirigido. Ej: Si hay problemas financieros, hacer un estudio en que la conclusión sea que Dios va a hacer que a todos nos vaya bien financieramente, si oramos. 
 
-## Para efectos de estudios bíblicos evangelísticos, prefiere siempre pasajes sencillos 
-En especial aquellos de los evangelios. Verás que Jesucristo mismo hará gran parte del trabajo a través de sus propios dichos, actitudes, preguntas, etc. 
+## Utiliza pasajes sencillos
+Para efectos de estudios bíblicos evangelísticos, prefiere siempre pasajes sencillos, en especial aquellos de los evangelios. Verás que Jesucristo mismo hará gran parte del trabajo a través de sus propios dichos, actitudes, preguntas, etc. 
 
 ## Evita los textos oscuros o conflictivos 
 No es necesario iniciar un debate sobre temas que históricamente han tenido interpretaciones diversas en la iglesia cristiana. Recuerda que el grupo de estudio es una instancia de invitar a personas no cristianas, y es mejor mostrarles lo mucho que nos une y que es claro en la Biblia a aquellos pocos temas en que discrepamos. ¡Si te interesan estos temas, propón a tu líder o a los encargados de los grupos de estudio un taller especial!
