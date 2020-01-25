@@ -24,7 +24,7 @@ Este es OIRA, que es Observación, Interpretación, Reflexión y Aplicación, qu
 Veamos como utilizamos cada una de estas etapas en esta parte de cocinar.
 Para dejar más claro utilizaremos como ejemplo el pasaje de Lucas 6:46-49. 
 
-### Observación. ¿Qué dice el texto? 
+## Observación. ¿Qué dice el texto? 
 
 ![]({{site.baseurl}}/assets/images/book_lover.png)
 
@@ -52,7 +52,7 @@ Gracias a este contexto, podemos saber que las palabras de Jesús que aparecen e
 
 Es importante en esta etapa de observación general subrayar las palabras que no entiendas, que sean poco frecuentes en el español o que te llamen la atención, las busques en un diccionario y ¡anotes el significado! para después compartirlo con tus amigos. 
 
-## Observación Específica.
+### Observación Específica.
 Para la observación específica nos ayudamos de las llamadas "preguntas amigas". No siempre vas a poder contestarlas todas a partir del texto, y tendrás que referirte al contexto. Tampoco siempre todas tienen la misma importancia. Aquí debes tener sensibilidad y saber reconocer aquellas que serán útiles o de provecho en el estudio en grupo.
 
 1.- _¿Quiénes? ¿Quiénes son las personas? ¿Qué se puede saber de ellas por el pasaje? ¿Cómo reaccionan e interactúan? ¿En quién se centra la atención?_
@@ -93,9 +93,9 @@ Una vez que hayas terminado con una buena observación general y específica deb
 - ¿Cuál casa se mantiene en pié? ¿Por qué? 
 </div>
 
-###### Las preguntas que se sugieren en esta etapa de Observación Específica han sido tomadas del libro [La Aventura de Estudiar la Biblia](https://es.slideshare.net/alepistilli/la-aventura-de-estudiar-la-biblia){:target="_blank" rel="noopener"} de Carlos Yabraian, Ed. Certeza Argentina. 
+_Las preguntas que se sugieren en esta etapa de Observación Específica han sido tomadas del libro [La Aventura de Estudiar la Biblia](https://es.slideshare.net/alepistilli/la-aventura-de-estudiar-la-biblia){:target="_blank" rel="noopener"} de Carlos Yabraian, Ed. Certeza Argentina._
 
-### Interpretación. ¿Qué quiso comunicar el autor?
+## Interpretación. ¿Qué quiso comunicar el autor?
 
 ![]({{site.baseurl}}/assets/images/observations.png)
 
@@ -106,7 +106,7 @@ Con esto finalmente llegaremos a entender ¿Qué es lo que el autor quiso comuni
 
 En la etapa "**en la cocina**" deberás tratar de reunir la mayor información posible para poder hacer una correcta interpretación. Puedes consultar comentarios bíblicos y diccionarios, sin embargo, debes recordar que esto es para que puedas guiar el trabajo que harán en equipo en la reunión de grupo. No debes pretender llevar toda una descripción hermenéutica a la reunión de grupo. Esto si bien puede ser interesante en ocasiones desviará la atención del texto. ¡Sería como llevar las ollas a la mesa! 
 
-## Principios para una buena interpretación.
+### Principios para una buena interpretación.
 1. Simplicidad. La mayor parte de las veces los textos bíblicos significan exactamente lo que parece que tratan de decir. No le busques la quinta pata al gato.
 2. [Historicidad](https://es.wikipedia.org/wiki/Historicidad){:target="_blank" rel="noopener"}. Recuerda que es necesario conocer lo que entendió el auditorio original, por lo tanto en ocasiones hay que averiguar qué es lo que ellos conocían. Hay palabras que con el tiempo han adquirido otras connotaciones, por ejemplo "humildad", hoy se asocia a la pobreza económica.
 3. Coherencia. Recuerda que la Biblia se interpreta a sí misma. Si tu interpretación del pasaje te lleva a una conclusión que contradice la enseñanza bíblica, entonces es mejor revisar la interpretación. 
@@ -122,7 +122,7 @@ En la etapa "**en la cocina**" deberás tratar de reunir la mayor información p
 - ¿Cuál es la idea central de este texto? 
 </div>
 
-### Reflexión. ¿Qué tiene que ver el texto conmigo/nosotros hoy? 
+## Reflexión. ¿Qué tiene que ver el texto conmigo/nosotros hoy? 
 
 ![]({{site.baseurl}}/assets/images/interpretation.png)
 
@@ -139,7 +139,7 @@ No es necesario hacer esta pregunta en forma directa únicamente. A veces es nec
 
 En ocasiones las preguntas de reflexión pueden ser hechas para la reflexión privada o para compartir con el resto del grupo. Sea como sea, asegúrate que las preguntas sean efectivamente reflexionadas. Puedes proponer que escriban sus respuestas en un papel, por ejemplo. 
 
-### Aplicación. ¿Cuál es mi respuesta al texto? 
+## Aplicación. ¿Cuál es mi respuesta al texto? 
 
 ![]({{site.baseurl}}/assets/images/analysis.png)
 
