@@ -8,6 +8,7 @@ nav_order: 2
 {: .no_toc }
 
 ---
+![]({{site.baseurl}}/assets/images/study_skau.png)
 
 ### Ventajas
 

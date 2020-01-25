@@ -53,7 +53,7 @@ Siempre es fundamental pasar un tiempo de oración durante los estudios bíblico
 
 ## Algunos consejos finales
 
-![]({{site.baseurl}}/assets/images/ideas.png){:width="50%" .fs-5 .mb-4 .mb-md-0 .mr-2 }
+![]({{site.baseurl}}/assets/images/ideas.png)
 
 - Cuando estén en el estudio bíblico, trata de que el paso de una etapa a la otra sea lo más natural posible. No es necesario "marcar" cada una de las etapas. Tú las tendrás claras en tu mente, de manera tal que podrás ir corrigiendo si por ejemplo alguien está interpretando el texto directamente antes de observar.
 - Todo estudio bíblico bien hecho debería ser evangelístico, pues toda la Biblia apunta de una u otra manera a Cristo. Por eso lo promovemos en el GBU, donde la idea siempre es generar un espacio para invitar a nuestros compañeros no cristianos.

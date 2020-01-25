@@ -20,7 +20,7 @@ nav_order: 1
 
 Idealmente no tendrías que elegir el pasaje a estudiar. Pueden ser los líderes de la iglesia o encargados de los grupos de estudio bíblico que definan un libro de la Biblia o quizás varios pasajes en una misma temática para poder estudiar durante el período de estudios. Esto permite que las personas que van a asistir puedan saber previamente qué se va a estudiar. También permite ir siguiendo una línea correlacionada, e ir construyendo en base a ella. 
 
-![]({{site.baseurl}}/assets/images/breakfast.png){:width="50%" .fs-5 .mb-4 .mb-md-0 .mr-2 }
+![]({{site.baseurl}}/assets/images/breakfast.png)
 
 Sin embargo, puede que seas el encargado de los grupos de estudio, y tengas que escoger que tema se va a estudiar en este período. O tal vez has escogido una modalidad más libre, y no seguir un estudio sistemático, que también es una opción válida. En este caso he aquí algunas sugerencias para escoger el pasaje:
 

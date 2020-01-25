@@ -15,7 +15,7 @@ Si nunca antes has preparado un estudio bíblico, o nunca has cocinado, encontra
 
 Bien, si este es tu caso: *Manten la calma, aquí encontrarás las herramientas para hacerlo.*
 
-![]({{site.baseurl}}/assets/images/Chef.png){:width="50%" .fs-5 .mb-4 .mb-md-0 .mr-2 }
+![]({{site.baseurl}}/assets/images/Chef.png)
 
 Primero debes tener claro que tú no eres el Chef principal. Claro, tendrás que cocinar, pero alguien ya hizo el menú previamente. También se ha conseguido los ingredientes, y tiene todo en control. Dios está en control
 de todo, y te ha invitado a ser parte de esto. Cuando te toque preparar el tema de un estudio bíblico, **lo primero que deberías hacer es tomar un tiempo en oración y pedirle dirección a Dios**, de manera tal que sepas qué es *lo que él tiene planeado revelar en la próxima reunión de estudio bíblico*. 

@@ -26,7 +26,7 @@ Para dejar más claro utilizaremos como ejemplo el pasaje de Lucas 6:46-49.
 
 ### Observación. ¿Qué dice el texto? 
 
-![]({{site.baseurl}}/assets/images/book_lover.png){:width="50%" .fs-5 .mb-4 .mb-md-0 .mr-2 }
+![]({{site.baseurl}}/assets/images/book_lover.png)
 
 La etapa de la observación es una de las más importantes, tanto en la preparación como en la ejecución del estudio. La observación significa examinar el texto y su contexto. En la preparación del tema deberás usar todas las  herramientas posibles para llevar a cabo una buena observación. 
 
@@ -97,7 +97,7 @@ Una vez que hayas terminado con una buena observación general y específica deb
 
 ### Interpretación. ¿Qué quiso comunicar el autor?
 
-![]({{site.baseurl}}/assets/images/observations.png){:width="50%" .fs-5 .mb-4 .mb-md-0 .mr-2 }
+![]({{site.baseurl}}/assets/images/observations.png)
 
 A diferencia de lo que muchos piensan, la hora de la interpretación no es decir "_que yo creo que este pasaje significa para mí_". Al contrario, una buena interpretación en este punto busca encontrar el significado del pasaje para sus primeros oyentes / lectores. Debemos entonces preguntarnos _¿Qué significó esto para el auditorio original?_
 
@@ -124,7 +124,7 @@ En la etapa "**en la cocina**" deberás tratar de reunir la mayor información p
 
 ### Reflexión. ¿Qué tiene que ver el texto conmigo/nosotros hoy? 
 
-![]({{site.baseurl}}/assets/images/interpretation.png){:width="50%" .fs-5 .mb-4 .mb-md-0 .mr-2 }
+![]({{site.baseurl}}/assets/images/interpretation.png)
 
 La etapa de reflexión consiste en capturar el sentido personal del texto. Es responder a la pregunta ¿Qué tiene que ver esto conmigo? 
 
@@ -141,7 +141,7 @@ En ocasiones las preguntas de reflexión pueden ser hechas para la reflexión pr
 
 ### Aplicación. ¿Cuál es mi respuesta al texto? 
 
-![]({{site.baseurl}}/assets/images/analysis.png){:width="50%" .fs-5 .mb-4 .mb-md-0 .mr-2 }
+![]({{site.baseurl}}/assets/images/analysis.png)
 
 La etapa de aplicación es la última, pero no por eso la menos importante. Debemos asegurarnos que la gente no se retira antes de llegar a este punto. 
 

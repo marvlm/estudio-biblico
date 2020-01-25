@@ -13,7 +13,7 @@ permalink: /docs/practica
 
 A continuación te dejamos unos pasajes de la Biblia con los que podrás practicar realizando tu propio estudio inductivo. 
 
-![]({{site.baseurl}}/assets/images/studying.png){:width="50%" .fs-5 .mb-4 .mb-md-0 .mr-2 }
+![]({{site.baseurl}}/assets/images/studying.png)
 
 - Deberás tomar tiempo para realizar la etapa previa "en la cocina". 
 - Luego habla con algunos amigos tuyos, ya sean creyentes o no creyentes invitalos a un grupo de estudio y pon en práctica este estudio. 
