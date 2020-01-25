@@ -3,7 +3,7 @@ layout: default
 title: A Practicar
 nav_order: 6
 has_children: true
-permalink: /docs/practica
+permalink: /docs/practica/
 ---
 
 # Actividad práctica: Armando tu propio estudio bíblico inductivo
