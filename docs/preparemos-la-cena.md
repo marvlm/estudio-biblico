@@ -19,3 +19,5 @@ Una vez en la mesa permitirás que todos coman, no te comerás todo tú solo, ni
 
 Con el tiempo y la práctica te irás dando cuenta que cada vez cocinas mejor. Irás adquiriendo también más creatividad a la hora de elaborar y presentar los platos. También te darás cuenta que tanto tú como tus amigos
 irán alimentándose y creciendo espiritualmente. Y verás también probablemente que más hambrientos se habrán enterado de que ahí se sirve buena comida, y vendrán en búsqueda de saciedad. 
+
+[Anterior]({{site.baseurl}}/docs/configuration/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2} [Siguiente]({{site.baseurl}}/docs/en-la-cocina/){: .btn .fs-5 .mb-4 .mb-md-0 }

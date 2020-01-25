@@ -53,3 +53,5 @@ Debes estar atento a que se cumplan las pautas para una buena interpretación, d
 
 7.- Oración.
 Siempre es fundamental pasar un tiempo de oración durante los estudios bíblicos. Al final es una buena idea, ya que pueden agradecer y pedir en relación a lo recién estudiado. Recuerda siempre que la oración no es para predicar. Puede ser oración en parejas, o solo pedirle a una persona que ore. 
+
+[Anterior]({{site.baseurl}}/docs/en-la-cocina/oira/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2} [Siguiente]({{site.baseurl}}/docs/en-la-mesa/consejos/){: .btn .fs-5 .mb-4 .mb-md-0 }

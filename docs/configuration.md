@@ -24,3 +24,5 @@ Existen muchas formas de estudiar la Biblia, y muchas de ellas son sumamente par
 ### Importante
 
 Es necesario mencionar eso sí, que a diferencia de lo que algunos pudieran pensar, el estudio biblico requiere un tiempo prudente de preparación previa, de manera tal que se pueda sacar el mayor provecho posible de la porción de la palabra que estudiamos. En las páginas siguientes vamos a revisar cómo debe realizarse este proceso de  preparación, y también sugerencias de cómo llevar a cabo el estudio bíblico.
+
+[Anterior]({{site.baseurl}}/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2} [Siguiente]({{site.baseurl}}/docs/preparemos-la-cena/){: .btn .fs-5 .mb-4 .mb-md-0 }

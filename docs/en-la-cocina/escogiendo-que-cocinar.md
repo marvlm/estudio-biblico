@@ -35,3 +35,5 @@ En especial aquellos de los evangelios. Verás que Jesucristo mismo hará gran p
 
 ## Evita los textos oscuros o conflictivos 
 No es necesario iniciar un debate sobre temas que históricamente han tenido interpretaciones diversas en la iglesia cristiana. Recuerda que el grupo de estudio es una instancia de invitar a personas no cristianas, y es mejor mostrarles lo mucho que nos une y que es claro en la Biblia a aquellos pocos temas en que discrepamos. ¡Si te interesan estos temas, propón a tu líder o a los encargados de los grupos de estudio un taller especial!
+
+[Anterior]({{site.baseurl}}/docs/en-la-cocina/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2} [Siguiente]({{site.baseurl}}/docs/en-la-cocina/oira/){: .btn .fs-5 .mb-4 .mb-md-0 }

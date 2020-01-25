@@ -159,3 +159,5 @@ Varias cosas van a surgir en la etapa "en la mesa", pero mientras estés "en la 
 - Algo para obedecer.
 - Una promesa en la que debo confiar.
 - Un desafío que puedo aceptar.
+
+[Anterior]({{site.baseurl}}/docs/en-la-cocina/escogiendo-que-cocinar/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2} [Siguiente]({{site.baseurl}}/docs/en-la-mesa/){: .btn .fs-5 .mb-4 .mb-md-0 }

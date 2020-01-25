@@ -21,3 +21,5 @@ A continuación te dejamos unos pasajes de la Biblia con los que podrás practic
 - Si tienes dificultades o necesitas ayuda, vuelve a revisar el texto o revisa la bibliografía recomendada.
 - Recuerda que el objetivo final de este tiempo es que puedas generar las preguntas que podrás compartir con tu grupo.
 - Para cada pasaje se adjunta el texto, sin embargo tal vez quieras usar tu propia Biblia o usar varias versiones y comparar. 
+
+[Anterior]({{site.baseurl}}/docs/en-la-mesa/consejos/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2} [Siguiente]({{site.baseurl}}/docs/practica/juan-2-1-12/){: .btn .fs-5 .mb-4 .mb-md-0 }
