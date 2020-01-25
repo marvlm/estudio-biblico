@@ -30,7 +30,7 @@ Estudio Bíblico se distribuye con licencia [MIT license](https://github.com/pma
 
 Si deseas contribuir de alguna manera a este proyecto, por favor dirígete primero al dueño del mismo a través de correo o un issue en Github antes de realizar cualquier cambio. Leer acerca de como contribuir en [nuestro repo en GitHub](https://github.com/pmarsceill/just-the-docs#contributing).
 
-#### Gracias desde ya por participar y contribuir en este estudio bíblico!
+### Dios te bendiga!
 
 <!-- <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
