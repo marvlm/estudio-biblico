@@ -20,7 +20,8 @@ La información presentada en este sitio es tomada del material diseñado por Gu
 
 Este es un proyecto Open source creado por [Marvin López](https://about.me/marvlm) para poder compartir una forma de estudiar la palabra de Dios con muchas más personas, al aprovechar la tecnología y el diseño web creando un documento más fácil de leer desde cualquier dispositivo. 
 
-![]({{site.baseurl}}/assets/images/web_devices.png){:width="50%" .fs-5 .mb-4 .mb-md-0 .mr-2 }[Ver en GitHub](https://github.com/marvlm/estudio-biblico){: .btn .fs-5 .mb-4 .mb-md-0 }
+![]({{site.baseurl}}/assets/images/web_devices.png)
+[Ver en GitHub](https://github.com/marvlm/estudio-biblico){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ### Licencia
 
