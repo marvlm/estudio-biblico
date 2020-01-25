@@ -2,6 +2,7 @@
 layout: default
 title: En la mesa
 nav_order: 5
+has_children: true
 permalink: /docs/en-la-mesa
 ---
 
@@ -14,6 +15,8 @@ permalink: /docs/en-la-mesa
 {:toc}
 
 ---
+
+![]({{site.baseurl}}/assets/images/eating_together.png)
 
 ## Introducción
 
@@ -50,11 +53,3 @@ Debes estar atento a que se cumplan las pautas para una buena interpretación, d
 
 7.- Oración.
 Siempre es fundamental pasar un tiempo de oración durante los estudios bíblicos. Al final es una buena idea, ya que pueden agradecer y pedir en relación a lo recién estudiado. Recuerda siempre que la oración no es para predicar. Puede ser oración en parejas, o solo pedirle a una persona que ore. 
-
-## Algunos consejos finales
-
-![]({{site.baseurl}}/assets/images/ideas.png)
-
-- Cuando estén en el estudio bíblico, trata de que el paso de una etapa a la otra sea lo más natural posible. No es necesario "marcar" cada una de las etapas. Tú las tendrás claras en tu mente, de manera tal que podrás ir corrigiendo si por ejemplo alguien está interpretando el texto directamente antes de observar.
-- Todo estudio bíblico bien hecho debería ser evangelístico, pues toda la Biblia apunta de una u otra manera a Cristo. Por eso lo promovemos en el GBU, donde la idea siempre es generar un espacio para invitar a nuestros compañeros no cristianos.
-- Si algún participante tiende a irse a otros temas que no tienen que ver con el texto (ej: doctrinales, circunstanciales, filosóficos, etc.), no te empecines en contestar todo durante el estudio bíblico indictivo, pues podrían perder un tiempo precioso. Sugiere reuniones extraordinarias para tratar estos temas. 
