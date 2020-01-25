@@ -18,8 +18,8 @@ Existen muchas formas de estudiar la Biblia, y muchas de ellas son sumamente par
 - No necesita que la persona que guía la reunión sea un experto biblista.
 - Facilita que los estudiantes nuevos o más tímidos puedan sentirse libres de hacer aportes significativos.
 - Genera un ambiente de confianza y de análisis de las escrituras (muy importante sobre todo cuando invitamos a nuestros personas que aun no son cristianos).
-- Permite generar acciones concretas de aplicación en la vida personal de los participantes tomndo como referencia los textos bíblicos estudiados. 
+- Permite generar acciones concretas de aplicación en la vida personal de los participantes tomando como referencia los textos bíblicos estudiados. 
 
 ### Importante
 
-Es necesario mencionar eso sí, que a diferencia de lo que algunos pudieran pensar, el estudio biblico requiere un tiempo prudente de preparación previa, de manera tal que se pueda sacar el mayor provecho posible de la porción de la palabra que estudiamos. En las páginas siguientes vamos a revisar cómo debe realizarse este proceso de  reparación, y también sugerencias de cómo llevar a cabo el estudio bíblico.
+Es necesario mencionar eso sí, que a diferencia de lo que algunos pudieran pensar, el estudio biblico requiere un tiempo prudente de preparación previa, de manera tal que se pueda sacar el mayor provecho posible de la porción de la palabra que estudiamos. En las páginas siguientes vamos a revisar cómo debe realizarse este proceso de  preparación, y también sugerencias de cómo llevar a cabo el estudio bíblico.
