@@ -1,88 +1,25 @@
 ---
 layout: default
-title: Configuration
+title: El estudio
 nav_order: 2
 ---
 
-# Configuration
+# ¿Por qué usar este estudio bíblico inductivo?
 {: .no_toc }
-
-
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
-{: .fs-6 .fw-300 }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ---
 
+### Ventajas
 
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
+Existen muchas formas de estudiar la Biblia, y muchas de ellas son sumamente participativas y atractivas. Aunque no descartamos que cada grupo pueda tener autonomía en la forma de realizar sus estudios, esta guía ha sido creada para promover activamente la aproximación inductiva. Esta forma tiene varias ventajas que podemos aprovechar en los núcleos:
 
-## Site logo
+- Favorece reuniones participativas.
+- Permite que los estudiantes descubran por si mismos verdades profundas de las escrituras, sin que otra persona se las "imponga".
+- No necesita que la persona que guía la reunión sea un experto biblista.
+- Facilita que los estudiantes nuevos o más tímidos puedan sentirse libres de hacer aportes significativos.
+- Genera un ambiente de confianza y de análisis de las escrituras (muy importante sobre todo cuando invitamos a nuestros personas que aun no son cristianos).
+- Permite generar acciones concretas de aplicación en la vida personal de los participantes tomndo como referencia los textos bíblicos estudiados. 
 
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
+### Importante
 
-## Search
-
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
-
-# Enable support for hyphenated search words:
-search_tokenizer_separator: /[\s/]+/
-
-```
-
-## Aux links
-
-```yaml
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
-```
-
-## Heading anchor links
-
-```yaml
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
-#
-# Supports true (default) or false/nil
-heading_anchors: true
-```
-
-## Footer content
-
-```yaml
-# Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
-```
-
-## Color scheme
-
-```yaml
-# Color scheme currently only supports "dark" or nil (default)
-color_scheme: "dark"
-```
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
-
-<script type="text/javascript" src="{{ "/assets/js/dark-mode-preview.js" | absolute_url }}"></script>
-
-See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
-
-## Google Analytics
-
-```yaml
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: UA-5555555-55
-```
+Es necesario mencionar eso sí, que a diferencia de lo que algunos pudieran pensar, el estudio biblico requiere un tiempo prudente de preparación previa, de manera tal que se pueda sacar el mayor provecho posible de la porción de la palabra que estudiamos. En las páginas siguientes vamos a revisar cómo debe realizarse este proceso de  reparación, y también sugerencias de cómo llevar a cabo el estudio bíblico.
