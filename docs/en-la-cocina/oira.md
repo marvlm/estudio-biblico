@@ -122,7 +122,7 @@ En la etapa "**en la cocina**" deberás tratar de reunir la mayor información p
 - ¿Cuál es la idea central de este texto? 
 </div>
 
-## Reflexión. ¿Qué tiene que ver el texto conmigo/nosotros hoy? 
+## Reflexión. ¿Qué quiere decirnos Dios? 
 
 ![]({{site.baseurl}}/assets/images/interpretation.png)
 
