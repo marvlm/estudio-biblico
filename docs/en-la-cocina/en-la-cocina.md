@@ -3,7 +3,7 @@ layout: default
 title: En la cocina
 nav_order: 4
 has_children: true
-permalink: /docs/en-la-cocina
+permalink: /docs/en-la-cocina/
 ---
 
 # Primera parte: En la cocina
