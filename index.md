@@ -29,7 +29,7 @@ Estudio Bíblico se distribuye con licencia [MIT license](https://github.com/mar
 
 ### Contribuciones
 
-Si deseas contribuir de alguna manera a este proyecto, por favor dirígete primero al dueño del mismo a través de correo o un issue en Github antes de realizar cualquier cambio. Leer acerca de como contribuir en [nuestro repo en GitHub](https://github.com/marvlm/estudio-biblico#contributing){: target="_blank" rel="noopener"}.
+Si deseas contribuir de alguna manera a este proyecto, por favor dirígete primero al dueño del mismo a través de [correo](mailto:lopezm.marvin@gmail.com) o un issue en Github antes de realizar cualquier cambio. Leer acerca de como contribuir en [nuestro repo en GitHub](https://github.com/marvlm/estudio-biblico#contributing){: target="_blank" rel="noopener"}.
 
 ### Dios te bendiga!
 
