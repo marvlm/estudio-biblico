@@ -25,11 +25,11 @@ Este es un proyecto Open source creado por [Marvin López](https://about.me/marv
 
 ### Licencia
 
-Estudio Bíblico se distribuye con licencia [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+Estudio Bíblico se distribuye con licencia [MIT license](https://github.com/marvlm/estudio-biblico/blob/master/LICENSE.txt){: target="_blank" rel="noopener"}.
 
 ### Contribuciones
 
-Si deseas contribuir de alguna manera a este proyecto, por favor dirígete primero al dueño del mismo a través de correo o un issue en Github antes de realizar cualquier cambio. Leer acerca de como contribuir en [nuestro repo en GitHub](https://github.com/pmarsceill/just-the-docs#contributing).
+Si deseas contribuir de alguna manera a este proyecto, por favor dirígete primero al dueño del mismo a través de correo o un issue en Github antes de realizar cualquier cambio. Leer acerca de como contribuir en [nuestro repo en GitHub](https://github.com/marvlm/estudio-biblico#contributing){: target="_blank" rel="noopener"}.
 
 ### Dios te bendiga!
 
