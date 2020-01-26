@@ -9,7 +9,7 @@ permalink: /
 # Cómo Hacer Estudios Bíblicos Inductivos
 {: .fs-9 }
 
-La información presentada en este sitio es tomada del material diseñado por Gustavo Sobarzo y Myriam Ortiz miembros del Grupo Bíblico Universitario de Chile en Enero 2011. Los textos bíblicos fueron tomados de la versión NVI. 
+El Estudio Inductivo, es un método que puede usar cualquier persona, comprende tres habilidades: la Observación, la Interpretación y la Aplicación. El Estudio Inductivo de la Biblia, usa la misma Biblia como única fuente de información acerca de la Biblia. 
 {: .fs-6 .fw-300 }
 
 [Empezar el estudio]({{site.baseurl}}/docs/configuration/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2} [Descargar original](https://gbuch.cl/images/publicacionesgbuch/ComoHacerEBI.pdf){: .btn .fs-5 .mb-4 .mb-md-0 target="_blank" rel="noopener"}
