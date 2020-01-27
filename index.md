@@ -18,7 +18,7 @@ El Estudio Inductivo, es un método que puede usar cualquier persona, comprende 
 
 ## Acerca de este proyecto
 
-Este es un proyecto Open source creado por [Marvin López](https://about.me/marvlm). Se ha convertido un documento PDF. muy interesante pero difícil de leer en dispositivos móviles, en un moderno sitio web. En él se describe una guía práctica para estudiar la palabra de Dios. Este proyecto aprovecha la tecnología web para crear un documento más fácil de leer desde cualquier dispositivo. 
+Este es un proyecto Open source creado por [Marvin López](https://about.me/marvlm). Se ha convertido un documento PDF, muy interesante pero difícil de leer en dispositivos móviles, en un moderno sitio web en el que se describe una guía práctica para estudiar la palabra de Dios. Este proyecto aprovecha la tecnología web para crear un documento más fácil de leer desde cualquier dispositivo. 
 
 ![]({{site.baseurl}}/assets/images/web_devices.png)
 [Ver en GitHub](https://github.com/marvlm/estudio-biblico){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
