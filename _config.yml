@@ -16,7 +16,7 @@
 title: Estudio Bíblico Inductivo
 description: Cómo hacer un estudio bíblico inductivo.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://www.estudiobiblico.ml" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://estudiobiblico.ml" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
