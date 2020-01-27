@@ -20,7 +20,7 @@ nav_order: 1
 
 Idealmente no tendrías que elegir el pasaje a estudiar. Pueden ser los líderes de la iglesia o encargados de los grupos de estudio bíblico que definan un libro de la Biblia o quizás varios pasajes en una misma temática para poder estudiar durante el período de estudios. Esto permite que las personas que van a asistir puedan saber previamente qué se va a estudiar. También permite ir siguiendo una línea correlacionada, e ir construyendo en base a ella. 
 
-![]({{site.baseurl}}/assets/images/breakfast.png)
+![]({{site.url}}/assets/images/breakfast.png)
 
 Sin embargo, puede que seas el encargado de los grupos de estudio, y tengas que escoger que tema se va a estudiar en este período. O tal vez has escogido una modalidad más libre, y no seguir un estudio sistemático, que también es una opción válida. En este caso he aquí algunas sugerencias para escoger el pasaje:
 
@@ -36,4 +36,4 @@ Para efectos de estudios bíblicos evangelísticos, prefiere siempre pasajes sen
 ## Evita los textos oscuros o conflictivos 
 No es necesario iniciar un debate sobre temas que históricamente han tenido interpretaciones diversas en la iglesia cristiana. Recuerda que el grupo de estudio es una instancia de invitar a personas no cristianas, y es mejor mostrarles lo mucho que nos une y que es claro en la Biblia a aquellos pocos temas en que discrepamos. ¡Si te interesan estos temas, propón a tu líder o a los encargados de los grupos de estudio un taller especial!
 
-[Anterior]({{site.baseurl}}/docs/en-la-cocina/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2} [Siguiente]({{site.baseurl}}/docs/en-la-cocina/oira/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Anterior]({{site.url}}/docs/en-la-cocina/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2} [Siguiente]({{site.url}}/docs/en-la-cocina/oira/){: .btn .fs-5 .mb-4 .mb-md-0 }

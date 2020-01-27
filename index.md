@@ -12,7 +12,7 @@ permalink: /
 El Estudio Inductivo, es un método que puede usar cualquier persona, comprende tres habilidades: la Observación, la Interpretación y la Aplicación. El Estudio Inductivo de la Biblia, usa la misma Biblia como única fuente de información acerca de la Biblia. 
 {: .fs-6 .fw-300 }
 
-[Empezar el estudio]({{site.baseurl}}/docs/configuration/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2} [Descargar original](https://gbuch.cl/images/publicacionesgbuch/ComoHacerEBI.pdf){: .btn .fs-5 .mb-4 .mb-md-0 target="_blank" rel="noopener"}
+[Empezar el estudio]({{site.url}}/docs/el-estudio/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2} [Descargar original](https://gbuch.cl/images/publicacionesgbuch/ComoHacerEBI.pdf){: .btn .fs-5 .mb-4 .mb-md-0 target="_blank" rel="noopener"}
 
 ---
 
@@ -20,7 +20,7 @@ El Estudio Inductivo, es un método que puede usar cualquier persona, comprende 
 
 Este es un proyecto Open source creado por [Marvin López](https://about.me/marvlm). Se ha convertido un documento PDF, muy interesante pero difícil de leer en dispositivos móviles, en un moderno sitio web en el que se describe una guía práctica para estudiar la palabra de Dios. Este proyecto aprovecha la tecnología web para crear un documento más fácil de leer desde cualquier dispositivo. 
 
-![]({{site.baseurl}}/assets/images/web_devices.png)
+![]({{site.url}}/assets/images/web_devices.png)
 [Ver en GitHub](https://github.com/marvlm/estudio-biblico){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ### Licencia
