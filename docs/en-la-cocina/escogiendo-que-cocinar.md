@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Escogiendo qué cocinar
 parent: En la cocina
 nav_order: 1

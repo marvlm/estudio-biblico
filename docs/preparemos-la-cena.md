@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Preparemos la cena
 nav_order: 3
 ---

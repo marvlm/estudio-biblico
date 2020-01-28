@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: En la cocina
 nav_order: 4
 has_children: true

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Inicio
 nav_order: 1
 description: "Guía para aprender a hacer un estudio bíblico inductivo."

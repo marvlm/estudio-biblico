@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: OIRA
 parent: En la cocina
 nav_order: 2

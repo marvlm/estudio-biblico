@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Consejos
 parent: En la mesa
 nav_order: 1

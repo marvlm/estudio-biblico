@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: A Practicar
 nav_order: 6
 has_children: true

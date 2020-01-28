@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: El estudio
 nav_order: 2
 ---

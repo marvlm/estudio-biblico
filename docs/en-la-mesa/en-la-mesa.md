@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: En la mesa
 nav_order: 5
 has_children: true
