@@ -1,5 +1,5 @@
 <div class="code-example" markdown="1">
-**Escribe tus preguntas de:**
+**Escribe tus preguntas en una hoja o en un cuaderno:**
 - Observación (¿Qué dice el texto?)
 
 - Interpretación (¿Qué quiso comunicar el autor?) 
